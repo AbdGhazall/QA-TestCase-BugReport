@@ -1,1 +1,1 @@
-### [Swag Labs](https://www.saucedemo.com/) test cases and bug reports task
+### [Swag Labs](https://www.saucedemo.com/) test cases and bug reports task QA (Documentation)
